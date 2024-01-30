@@ -1,3 +1,5 @@
+#this is a script that I wrote as my first Python project to assess the weather conditions where I was and give a reccomendation on what clothes I should wear for a run. Quite lengthy but works! 
+
 from pip._vendor import requests
 import json
 
