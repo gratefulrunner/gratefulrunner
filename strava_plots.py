@@ -1,3 +1,5 @@
+#this is a fun script that I wrote that will plot out some interesting data about my recent running via connecting to the Strava API 
+
 #importing libraries and putting tokens in variables
 import requests
 import urllib3
